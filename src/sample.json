@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 75,
+        "lat": 19.5
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 295.52,
+        "feels_like": 296.11,
+        "temp_min": 295.52,
+        "temp_max": 295.52,
+        "pressure": 1006,
+        "humidity": 88,
+        "sea_level": 1006,
+        "grnd_level": 947
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.56,
+        "deg": 274,
+        "gust": 14.53
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1694178107,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1694133971,
+        "sunset": 1694178601
+    },
+    "timezone": 19800,
+    "id": 1264418,
+    "name": "Maharashtra",
+    "cod": 200
+}
